@@ -191,7 +191,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-section{margin-top:16px!important;margin-bottom:16px!important}
 .w3-padding-tiny{padding:2px 4px!important}.w3-padding-small{padding:4px 8px!important}
 .w3-padding-medium,.w3-padding,.w3-form{padding:8px 16px!important}
-.w3-padding-large{padding:12px 24px!important}.w3-padding-xlarge{padding:16px 32px!important}
+.w3-padding-LARGE{padding:12px 24px!important}.w3-padding-xlarge{padding:16px 32px!important}
 .w3-padding-xxlarge{padding:24px 48px!important}.w3-padding-jumbo{padding:32px 64px!important}
 .w3-padding-4{padding-top:4px!important;padding-bottom:4px!important}
 .w3-padding-8{padding-top:8px!important;padding-bottom:8px!important}
